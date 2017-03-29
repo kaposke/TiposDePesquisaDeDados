@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\guilh\onedrive\documenti\visual studio 2015\projects\estruturas\estruturas\source.cpp(17): warning C4715: 'buscaSequencial': not all control paths return a value
+  Estruturas.vcxproj -> C:\Users\guilh\OneDrive\Documenti\Visual Studio 2015\Projects\Estruturas\Debug\Estruturas.exe
+  Estruturas.vcxproj -> C:\Users\guilh\OneDrive\Documenti\Visual Studio 2015\Projects\Estruturas\Debug\Estruturas.pdb (Partial PDB)
